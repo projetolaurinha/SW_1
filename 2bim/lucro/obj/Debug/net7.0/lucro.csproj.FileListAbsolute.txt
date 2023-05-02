@@ -1,0 +1,15 @@
+C:\Users\LAB4\Desktop\lucro\bin\Debug\net7.0\lucro.exe
+C:\Users\LAB4\Desktop\lucro\bin\Debug\net7.0\lucro.deps.json
+C:\Users\LAB4\Desktop\lucro\bin\Debug\net7.0\lucro.runtimeconfig.json
+C:\Users\LAB4\Desktop\lucro\bin\Debug\net7.0\lucro.dll
+C:\Users\LAB4\Desktop\lucro\bin\Debug\net7.0\lucro.pdb
+C:\Users\LAB4\Desktop\lucro\obj\Debug\net7.0\lucro.csproj.AssemblyReference.cache
+C:\Users\LAB4\Desktop\lucro\obj\Debug\net7.0\lucro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LAB4\Desktop\lucro\obj\Debug\net7.0\lucro.AssemblyInfoInputs.cache
+C:\Users\LAB4\Desktop\lucro\obj\Debug\net7.0\lucro.AssemblyInfo.cs
+C:\Users\LAB4\Desktop\lucro\obj\Debug\net7.0\lucro.csproj.CoreCompileInputs.cache
+C:\Users\LAB4\Desktop\lucro\obj\Debug\net7.0\lucro.dll
+C:\Users\LAB4\Desktop\lucro\obj\Debug\net7.0\refint\lucro.dll
+C:\Users\LAB4\Desktop\lucro\obj\Debug\net7.0\lucro.pdb
+C:\Users\LAB4\Desktop\lucro\obj\Debug\net7.0\lucro.genruntimeconfig.cache
+C:\Users\LAB4\Desktop\lucro\obj\Debug\net7.0\ref\lucro.dll
